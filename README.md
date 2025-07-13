@@ -7,7 +7,7 @@ Este proyecto simula una **terminal de autoservicio** para un supermercado, desa
 - Selección de productos y cantidades
 - Cálculo dinámico de subtotal
 - Aplicación de **descuentos automáticos** por monto de compra
-- Aplicación de **cupones de descuento**
+- Aplicación de **cupones de descuento** (DESC10; WINTER15; PROMO20)
 - Posibilidad de eliminar productos del carrito
 - Modificación de cantidades desde el carrito
 - Visualización del resumen de la compra en un modal
@@ -42,7 +42,7 @@ This project simulates a **self-checkout terminal** for a supermarket, built wit
 - Product and quantity selection
 - Real-time subtotal calculation
 - **Automatic discounts** based on purchase amount
-- **Coupon code** support
+- **Coupon code** support (DESC10; WINTER15; PROMO20)
 - Remove products from cart
 - Modify quantities from the cart
 - Checkout summary shown in a modal
