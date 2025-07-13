@@ -25,7 +25,7 @@ Este proyecto simula una **terminal de autoservicio** para un supermercado, desa
 1. Clona este repositorio o descarga los archivos.
 2. Abre el archivo `index.html` en tu navegador.
 3. Interactúa con la terminal de autoservicio:
-   - Ingresa tu nombre
+   - Ingresa tu nombre y correo electrónico
    - Selecciona productos y cantidades
    - Añádelos al carrito
    - Aplica cupones si tienes
@@ -60,7 +60,7 @@ This project simulates a **self-checkout terminal** for a supermarket, built wit
 1. Clone this repository or download the files.
 2. Open the `index.html` file in your browser.
 3. Interact with the self-checkout terminal:
-   - Enter your name
+   - Enter your name and mail
    - Select products and quantities
    - Add them to the cart
    - Apply a coupon (if available)
